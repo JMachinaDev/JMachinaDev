@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JMachinaDev AKA Josue Mendez
-- 👀 I’m interested in ... 3D printing, Mechanics(ask me about my Drift Truck build), building Keyboards, Comic Books & Video Games
+- 👀 I’m interested in ... 3D printing, Mechanics (ask me about my Drift Truck build), building Keyboards, Comic Books & Video Games
 - 🌱 I’m currently learning ... React and Collaborating with others through pair programming
 - 💞️ I’m looking to collaborate on ... Front End Projects
 - 📫 How to reach me ... LinkedIn https://www.linkedin.com/in/josue-mendez-0a78611ba/
